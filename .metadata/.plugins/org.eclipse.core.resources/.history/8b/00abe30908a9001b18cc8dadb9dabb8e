@@ -1,0 +1,7 @@
+package com.java3rdday.homework;
+
+import com.java3rdday.homework.User;
+
+public class Student extends User{
+	private String studentNumber;
+}

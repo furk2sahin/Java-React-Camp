@@ -1,0 +1,7 @@
+Main.class
+EmailLogger.class
+FileLogger.class
+Logger.class
+DatabaseLogger.class
+LogManager.class
+CustomerManager.class

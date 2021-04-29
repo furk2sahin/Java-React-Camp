@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="oopIntro.Category"/>
+    <fullyQualifiedTypeName name="oopIntro.ProductManager"/>
+    <fullyQualifiedTypeName name="oopIntro.Product"/>
+    <fullyQualifiedTypeName name="User"/>
+    <fullyQualifiedTypeName name="Instructor"/>
+    <fullyQualifiedTypeName name="com.java3rdday.homework.UserManager"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="model.User"/>
+    <fullyQualifiedTypeName name="manager.StudentManager"/>
+    <fullyQualifiedTypeName name="manager.InstructorManager"/>
+    <fullyQualifiedTypeName name="model.Student"/>
+    <fullyQualifiedTypeName name="model.Instructor"/>
+    <fullyQualifiedTypeName name="manager.UserManager"/>
+</qualifiedTypeNameHistroy>

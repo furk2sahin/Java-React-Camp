@@ -1,0 +1,13 @@
+package com.java3rdday.homework;
+
+import model.Instructor;
+
+public class InstructorManager {
+	
+	public void getInformation(Instructor instructor) {
+		System.out.println("ID: " + instructor.getId());
+		System.out.println("Name: " + instructor.getName());
+		System.out.println("Surname: " + instructor.getSurname());
+		System.out.println("Salary: " + instructor.getSalary());
+	}
+}

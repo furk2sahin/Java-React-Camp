@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\EnginDemirog_Kamp\.metadata\.plugins\org.eclipse.jdt.core
+2267910111.index
+380197650.index
+278804527.index
