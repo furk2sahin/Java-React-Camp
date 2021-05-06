@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68b92215-0775-412c-9083-679f9c023b98" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_DatabaseHelper/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_DatabaseHelper/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_DatabaseHelper/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_abstractDemo/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_abstractDemo/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_abstractDemo/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_abstractDemo/bin/BaseDatabaseManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_abstractDemo/bin/CustomerManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_abstractDemo/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_abstractDemo/bin/MySqlDatabaseManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_abstractDemo/bin/OracleDatabaseManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_abstractDemo/bin/SqlServerDatabaseManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_abstractDemo/src/BaseDatabaseManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_abstractDemo/src/CustomerManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_abstractDemo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_abstractDemo/src/MySqlDatabaseManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_abstractDemo/src/OracleDatabaseManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_abstractDemo/src/SqlServerDatabaseManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_abstracts/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_abstracts/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_abstracts/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_abstracts/bin/GameCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_abstracts/bin/KidsGameCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_abstracts/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_abstracts/bin/ManGameCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_abstracts/bin/OlderGameCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_abstracts/bin/WomanGameCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_abstracts/src/GameCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_abstracts/src/KidsGameCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_abstracts/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_abstracts/src/ManGameCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_abstracts/src/OlderGameCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_abstracts/src/WomanGameCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_interfaceDemo/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_interfaceDemo/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_interfaceDemo/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_interfaceDemo/bin/Eatable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_interfaceDemo/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_interfaceDemo/bin/OutsourceWorker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_interfaceDemo/bin/Payable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_interfaceDemo/bin/Robot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_interfaceDemo/bin/Workable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_interfaceDemo/bin/Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_interfaceDemo/src/Eatable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_interfaceDemo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_interfaceDemo/src/OutsourceWorker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_interfaceDemo/src/Payable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_interfaceDemo/src/Robot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_interfaceDemo/src/Workable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_interfaceDemo/src/Worker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_interfaces/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_interfaces/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_interfaces/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_interfaces/bin/CustomerDal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_interfaces/bin/CustomerManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_interfaces/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_interfaces/bin/MySqlCustomerDal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_interfaces/bin/OracleCustomerDal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_interfaces/bin/Repository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_interfaces/src/CustomerDal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_interfaces/src/CustomerManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_interfaces/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_interfaces/src/MySqlCustomerDal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_interfaces/src/OracleCustomerDal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_interfaces/src/Repository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_staticDemo/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_staticDemo/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_staticDemo/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_staticDemo/bin/DatabaseHelper$Connection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_staticDemo/bin/DatabaseHelper$Crud.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_staticDemo/bin/DatabaseHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_staticDemo/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_staticDemo/bin/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_staticDemo/bin/ProductManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_staticDemo/bin/ProductValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_staticDemo/src/DatabaseHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_staticDemo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_staticDemo/src/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_staticDemo/src/ProductManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev1_staticDemo/src/ProductValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/activation.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/bin/abstracts/BaseCustomerManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/bin/abstracts/CustomerCheckService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/bin/abstracts/CustomerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/bin/abstracts/Entity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/bin/adapters/MernisServiceAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/bin/concrete/CustomerCheckManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/bin/concrete/NeroCustomerManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/bin/concrete/StarbucksCustomerManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/bin/entities/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/bin/tr/gov/nvi/tckimlik/WS/KPSPublic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/bin/tr/gov/nvi/tckimlik/WS/KPSPublicLocator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/bin/tr/gov/nvi/tckimlik/WS/KPSPublicSoap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/bin/tr/gov/nvi/tckimlik/WS/KPSPublicSoapProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/bin/tr/gov/nvi/tckimlik/WS/KPSPublicSoapStub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/javax.mail.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/src/abstracts/BaseCustomerManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/src/abstracts/CustomerCheckService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/src/abstracts/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/src/abstracts/Entity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/src/adapters/MernisServiceAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/src/concrete/CustomerCheckManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/src/concrete/NeroCustomerManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/src/concrete/StarbucksCustomerManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/src/entities/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/src/tr/gov/nvi/tckimlik/WS/KPSPublic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/src/tr/gov/nvi/tckimlik/WS/KPSPublicLocator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/src/tr/gov/nvi/tckimlik/WS/KPSPublicSoap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/src/tr/gov/nvi/tckimlik/WS/KPSPublicSoapProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/DorduncuGunOdev/Odev2_InterfaceAbstractDemo/src/tr/gov/nvi/tckimlik/WS/KPSPublicSoapStub.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/UcuncuGunOdev/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/UcuncuGunOdev/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/UcuncuGunOdev/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/UcuncuGunOdev/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/UcuncuGunOdev/bin/manager/InstructorManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/UcuncuGunOdev/bin/manager/StudentManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/UcuncuGunOdev/bin/manager/UserManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/UcuncuGunOdev/bin/model/Instructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/UcuncuGunOdev/bin/model/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/UcuncuGunOdev/bin/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/UcuncuGunOdev/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/UcuncuGunOdev/src/manager/InstructorManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/UcuncuGunOdev/src/manager/StudentManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/UcuncuGunOdev/src/manager/UserManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/UcuncuGunOdev/src/model/Instructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/UcuncuGunOdev/src/model/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homeworks/UcuncuGunOdev/src/model/User.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1sBEzNQ2pEtSa5qJ7ywxH2pFlNd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68b92215-0775-412c-9083-679f9c023b98" name="Default Changelist" comment="" />
+      <created>1620337844090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620337844090</updated>
+      <workItem from="1620337848797" duration="84000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
