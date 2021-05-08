@@ -1,0 +1,23 @@
+
+S
+#src/hw3/model/abstracts/Entity.java,d\9\d91997298efe148dbb773f6e1b60c98c87e84849
+a
+1src/hw3/core/abstracts/AuthenticationService.java,5\e\5e14d33e2445ec762803524047a2168e57480305
+Y
+)src/hw3/dataAccess/abstracts/UserDao.java,7\e\7edc54d56faf1814149949d2740e4bec3a9260fe
+[
++src/hw3/business/abstracts/UserService.java,1\9\19fb5c3a6b82fc844faced00b03f226d2b9bb989
+O
+src/hw3/util/CodeGenerator.java,f\f\ff7667e24622c4c18c6528e385056b9d9dccc9a0
+Q
+!src/hw3/model/concretes/User.java,4\7\472bb2263c2dff071db23794d49deaf48d98fc8c
+c
+3src/hw3/googleAuth/GoogleAuthenticationManager.java,e\5\e546abb7c9555dd7bab200aa0a005d90d49cb9fc
+n
+>src/hw3/core/concretes/GoogleAuthenticationManagerAdapter.java,8\6\8600befe3bc1d45cc2afded60804e108c94a1fe9
+a
+1src/hw3/dataAccess/concretes/InMemoryUserDao.java,f\1\f17c878da468c2329ab07d6a2183cb093ea6b3cd
+[
++src/hw3/business/concretes/UserManager.java,1\7\174799a2f42776be3f513f6779fff3b6df63a656
+A
+src/hw3/Main.java,e\4\e45648b2f5ff687d62e5aca9620c219b0adf2f64

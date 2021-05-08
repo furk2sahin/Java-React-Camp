@@ -1,0 +1,9 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’¿‡ ÿÿÿÿÿ
+3
+java:S2119"Save and re-use this "Random".(¼ÝÅf
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŒÖó™ÿÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ŒÖó™ÿÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(åˆÂØ
