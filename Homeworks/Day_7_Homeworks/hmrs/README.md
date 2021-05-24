@@ -1,7 +1,7 @@
-# DAY 6 HOMEWORK 3
+# DAY 7 HOMEWORK 1
 
-## hrms project first steps
+## Adding Swagger 
 
-Getting all job positions using Rest API
+Adding Swagger UI
 
-![output](output/hw3_output.png)
+![output](output/Day7Homework1.png)
