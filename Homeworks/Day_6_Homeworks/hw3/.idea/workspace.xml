@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="383062f8-9813-4f21-85f3-1187cd946f35" name="Default Changelist" comment="" />
+    <list default="true" id="383062f8-9813-4f21-85f3-1187cd946f35" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/hmrs/src/main/java/kodlamaio/hmrs/api/controller/JobPositionsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/hmrs/src/main/java/kodlamaio/hmrs/api/controller/JobPositionsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmrs/src/main/java/kodlamaio/hmrs/business/abstracts/JobPositionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hmrs/src/main/java/kodlamaio/hmrs/business/abstracts/JobPositionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmrs/src/main/java/kodlamaio/hmrs/business/concretes/JobPositionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/hmrs/src/main/java/kodlamaio/hmrs/business/concretes/JobPositionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmrs/src/main/java/kodlamaio/hmrs/dataAccess/abstracts/JobPositionDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/hmrs/src/main/java/kodlamaio/hmrs/dataAccess/abstracts/JobPositionDao.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +38,7 @@
       <option name="presentableId" value="Default" />
       <updated>1620585811916</updated>
       <workItem from="1620585816249" duration="114000" />
+      <workItem from="1620947646261" duration="19000" />
     </task>
     <servers />
   </component>

@@ -1,5 +1,7 @@
 
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ЫЌШ
+n
+java:S5998"LRefactor this repetition that can lead to a stack overflow for large inputs.(Ж¬эҐшяяяя8н‡‹А–/
+T	java:S106	"9Replace this use of System.out or System.err by a logger.(о¤В>8†Цг”/
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(а®Жъыяяяя8Ґі‡ж”/
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(ЊшҐ‡юяяяя8Ђџ€ж”/
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ЫЌШ
-T	java:S106	"9Replace this use of System.out or System.err by a logger.(о¤В>8†Цг”/

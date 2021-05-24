@@ -1,30 +1,30 @@
 
-@
-java:S1659"#Declare "email" on a separate line.(æœ±8ÔÕå”/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ø€Ô®şÿÿÿÿ8†Ä«å”/
-Z	java:S106G"9Replace this use of System.out or System.err by a logger.(åÕ¹ÿÿÿÿÿ8ıæ”/
-C
-java:S1659"&Declare "password" on a separate line.(æœ±8ÔÕå”/
-Z	java:S106>"9Replace this use of System.out or System.err by a logger.(­µó„úÿÿÿÿ8¥‚æ”/
-Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ÆŸµúÿÿÿÿ8ıÆå”/
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìƒÛûÿÿÿÿ
-Z	java:S106;"9Replace this use of System.out or System.err by a logger.(µ„õ•ùÿÿÿÿ8î£îå”/
-o
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Çµí‘8÷åæ”/
-U	java:S106H"9Replace this use of System.out or System.err by a logger.(ªµ¸ñ8ıæ”/
-U	java:S106."9Replace this use of System.out or System.err by a logger.(Ó”®8± šæ”/
-I
-java:S1659",Declare "activationCode" on a separate line.(æœ±8ú³ƒæ”/
-Z	java:S106'"9Replace this use of System.out or System.err by a logger.(©‡ú¿üÿÿÿÿ8§»×å”/
-C
-java:S1659"&Declare "lastName" on a separate line.(æœ±8ÔÕå”/
-Z	java:S1065"9Replace this use of System.out or System.err by a logger.(Õ×—Úÿÿÿÿÿ8»Ùëå”/
-Z	java:S106B"9Replace this use of System.out or System.err by a logger.(Ñúœöÿÿÿÿÿ8ıæ”/
-…
-java:S1157W"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(ƒ÷Ãıÿÿÿÿ8æ°æ”/
 L
 java:S1128
 "/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8­ùòå”/
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Çµí‘8÷åæ”/
+C
+java:S1659"&Declare "lastName" on a separate line.(æœ±8ÔÕå”/
+@
+java:S1659"#Declare "email" on a separate line.(æœ±8ÔÕå”/
+C
+java:S1659"&Declare "password" on a separate line.(æœ±8ÔÕå”/
+I
+java:S1659",Declare "activationCode" on a separate line.(æœ±8ú³ƒæ”/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ø€Ô®şÿÿÿÿ8†Ä«å”/
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ÆŸµúÿÿÿÿ8ıÆå”/
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(©‡ú¿üÿÿÿÿ8§»×å”/
 Z	java:S106)"9Replace this use of System.out or System.err by a logger.(Õ×—Úÿÿÿÿÿ8§»×å”/
 Z	java:S106+"9Replace this use of System.out or System.err by a logger.(î÷©çÿÿÿÿÿ8§»×å”/
+U	java:S106."9Replace this use of System.out or System.err by a logger.(Ó”®8± šæ”/
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(Õ×—Úÿÿÿÿÿ8»Ùëå”/
 Z	java:S1067"9Replace this use of System.out or System.err by a logger.(î÷©çÿÿÿÿÿ8»Ùëå”/
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(µ„õ•ùÿÿÿÿ8î£îå”/
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(­µó„úÿÿÿÿ8¥‚æ”/
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(Ñúœöÿÿÿÿÿ8ıæ”/
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(åÕ¹ÿÿÿÿÿ8ıæ”/
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(ªµ¸ñ8ıæ”/
+…
+java:S1157W"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(ƒ÷Ãıÿÿÿÿ8æ°æ”/

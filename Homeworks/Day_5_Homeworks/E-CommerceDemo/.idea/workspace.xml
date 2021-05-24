@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77667cc7-069d-4e0f-86e2-aa9fb119f556" name="Default Changelist" comment="" />
+    <list default="true" id="77667cc7-069d-4e0f-86e2-aa9fb119f556" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/7/174799a2f42776be3f513f6779fff3b6df63a656" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/472bb2263c2dff071db23794d49deaf48d98fc8c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/8600befe3bc1d45cc2afded60804e108c94a1fe9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e45648b2f5ff687d62e5aca9620c219b0adf2f64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e546abb7c9555dd7bab200aa0a005d90d49cb9fc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f17c878da468c2329ab07d6a2183cb093ea6b3cd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_6_Homeworks/hw3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_6_Homeworks/hw3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_6_Homeworks/hw3/hmrs/src/main/java/kodlamaio/hmrs/api/controller/JobPositionsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_6_Homeworks/hw3/hmrs/src/main/java/kodlamaio/hmrs/api/controller/JobPositionsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_6_Homeworks/hw3/hmrs/src/main/java/kodlamaio/hmrs/business/abstracts/JobPositionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_6_Homeworks/hw3/hmrs/src/main/java/kodlamaio/hmrs/business/abstracts/JobPositionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_6_Homeworks/hw3/hmrs/src/main/java/kodlamaio/hmrs/business/concretes/JobPositionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_6_Homeworks/hw3/hmrs/src/main/java/kodlamaio/hmrs/business/concretes/JobPositionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_6_Homeworks/hw3/hmrs/src/main/java/kodlamaio/hmrs/dataAccess/abstracts/JobPositionDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_6_Homeworks/hw3/hmrs/src/main/java/kodlamaio/hmrs/dataAccess/abstracts/JobPositionDao.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,14 +30,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="ProjectId" id="1sFfQ3QjMBD0LTnsNgMTgWiFju3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/hw3" />
@@ -52,6 +71,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -63,11 +83,13 @@
       <option name="presentableId" value="Default" />
       <updated>1620473238711</updated>
       <workItem from="1620473240776" duration="17595000" />
+      <workItem from="1620947678771" duration="120000" />
+      <workItem from="1621463589911" duration="10000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1620488149072">
