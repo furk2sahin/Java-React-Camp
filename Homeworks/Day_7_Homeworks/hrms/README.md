@@ -13,4 +13,4 @@ HRMS Project with Spring Boot & React
  ---------------------------------
 ## Swagger UI
 
-![output](API/output/Day7Homework3.png)
+![output](output/Day7Homework3.png)
