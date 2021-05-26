@@ -1,11 +1,12 @@
 package kodlamaio.hrms.business.abstracts;
 
+import kodlamaio.hrms.core.utilities.results.DataResult;
 import kodlamaio.hrms.model.concretes.JobPosition;
 
 import java.util.List;
 
 public interface JobPositionService {
-    List<JobPosition> getAll();
-    JobPosition getByName(String name);
-    JobPosition add(JobPosition jobPosition);
+    DataResult<List<JobPosition>> getAll();
+    DataResult<JobPosition> getByName(String name);
+    DataResult<JobPosition> add(JobPosition jobPosition);
 }

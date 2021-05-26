@@ -1,7 +1,11 @@
 package kodlamaio.hrms.business.concretes;
 
+import com.google.common.base.Strings;
 import kodlamaio.hrms.business.abstracts.JobPositionService;
-import kodlamaio.hrms.dataAccess.abstracts.JobPositionDao;
+import kodlamaio.hrms.core.utilities.results.DataResult;
+import kodlamaio.hrms.core.utilities.results.ErrorDataResult;
+import kodlamaio.hrms.core.utilities.results.SuccessDataResult;
+import kodlamaio.hrms.repositories.JobPositionDao;
 import kodlamaio.hrms.model.concretes.JobPosition;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -19,17 +23,33 @@ public class JobPositionManager implements JobPositionService {
     }
 
     @Override
-    public List<JobPosition> getAll() {
-        return jobPositionDao.findAll();
+    public DataResult<List<JobPosition>> getAll() {
+        return new SuccessDataResult<>(jobPositionDao.findAll(), "Data listed successfully");
     }
 
     @Override
-    public JobPosition add(JobPosition jobPosition) {
-        return jobPositionDao.save(jobPosition);
+    public DataResult<JobPosition> add(JobPosition jobPosition) {
+        if(jobPositionDao.existsByJobName(jobPosition.getJobName())){
+            return new ErrorDataResult<>("This job already exist.");
+        }
+        return new SuccessDataResult<>(
+                jobPositionDao.save(jobPosition),
+                "Data saved successfully."
+        );
     }
 
     @Override
-    public JobPosition getByName(String name) {
-        return jobPositionDao.getByJobName(name);
+    public DataResult<JobPosition> getByName(String name) {
+        if(Strings.isNullOrEmpty(name)){
+            return new ErrorDataResult<>("Parameter cannot be empty.");
+        }
+        try{
+            return new SuccessDataResult<>(
+                    jobPositionDao.getByJobName(name),
+                    "Successfull."
+            );
+        } catch (Exception e){
+            return new ErrorDataResult<>("Error: " + e.getMessage());
+        }
     }
 }
