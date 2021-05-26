@@ -81,7 +81,7 @@ public class EmployerManager implements EmployerService {
     }
 
     private Result checkIfEmailContainsWebSiteDomain(String email, String website){
-        if(!email.contains(website)){
+        if(!email.split("@")[1].contains(website)){
             return new ErrorResult(
                     "This email does not contain web site's domain."
             );
