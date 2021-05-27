@@ -3,13 +3,13 @@ package kodlamaio.northwind.business.abstracts;
 import kodlamaio.northwind.core.utilities.results.DataResult;
 import kodlamaio.northwind.core.utilities.results.Result;
 import kodlamaio.northwind.entities.concretes.Product;
-import org.springframework.data.jpa.repository.Modifying;
-import org.springframework.data.jpa.repository.Query;
 
 import java.util.List;
 
 public interface ProductService {
     DataResult<List<Product>> getAll();
+    DataResult<List<Product>> getAllPaged(int pageNo, int pageSize);
+    DataResult<List<Product>> getAllSorted();
     Result add(Product product);
 
     DataResult<Product> findByProductName(String productName);

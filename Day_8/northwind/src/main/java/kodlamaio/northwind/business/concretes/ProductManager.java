@@ -5,6 +5,9 @@ import kodlamaio.northwind.core.utilities.results.*;
 import kodlamaio.northwind.dataAccess.abstracts.ProductDao;
 import kodlamaio.northwind.entities.concretes.Product;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.PageRequest;
+import org.springframework.data.domain.Pageable;
+import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
@@ -21,9 +24,37 @@ public class ProductManager implements ProductService {
     }
 
     @Override
+    public Result add(Product product) {
+        try{
+            productDao.save(product);
+            return new SuccessResult("Ürün eklendi");
+        } catch (Exception e){
+            return new ErrorResult("Ürün eklenemedi");
+        }
+    }
+
+    @Override
     public DataResult<List<Product>> getAll(){
         return new SuccessDataResult<>(
                 this.productDao.findAll(),
+                "Data listelendi"
+        );
+    }
+
+    @Override
+    public DataResult<List<Product>> getAllPaged(int pageNo, int pageSize) {
+        Pageable pageable = PageRequest.of(pageNo-1, pageSize);
+        return new SuccessDataResult<>(
+                productDao.findAll(pageable).getContent(),
+                "Data listelendi"
+        );
+    }
+
+    @Override
+    public DataResult<List<Product>> getAllSorted() {
+        Sort sort = Sort.by(Sort.Direction.DESC,"productName");
+        return new SuccessDataResult<>(
+                productDao.findAll(sort),
                 "Data listelendi"
         );
     }
@@ -82,15 +113,5 @@ public class ProductManager implements ProductService {
                 this.productDao.findByNameAndCategory(productName, categoryId),
                 "Data listelendi"
         );
-    }
-
-    @Override
-    public Result add(Product product) {
-        try{
-            productDao.save(product);
-            return new SuccessResult("Ürün eklendi");
-        } catch (Exception e){
-            return new ErrorResult("Ürün eklenemedi");
-        }
     }
 }

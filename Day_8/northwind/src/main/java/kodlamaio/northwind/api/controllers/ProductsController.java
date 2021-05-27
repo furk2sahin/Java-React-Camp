@@ -25,6 +25,17 @@ public class ProductsController {
         return productService.getAll();
     }
 
+    @GetMapping("/getAllByPage")
+    public DataResult<List<Product>> getAllPaged(@RequestParam("pageNo") int pageNo,
+                                            @RequestParam("pageSize") int pageSize){
+        return productService.getAllPaged(pageNo, pageSize);
+    }
+
+    @GetMapping("/getAllSortedDesc")
+    public DataResult<List<Product>> getAllSorted() {
+        return productService.getAllSorted();
+    }
+
     @PostMapping("/add")
     public Result add(@RequestBody Product product){
         return productService.add(product);
@@ -60,6 +71,12 @@ public class ProductsController {
     public DataResult<List<Product>> findByNameAndCategory(@RequestParam("productName") String productName,
                                                            @RequestParam("categoryId") int categoryId){
         return productService.findByNameAndCategory(productName, categoryId);
+    }
+
+    @GetMapping("/findByProductNameOrCategoryId")
+    public DataResult<List<Product>> findByProductNameOrCategoryId(@RequestParam("productName") String productName,
+                                                           @RequestParam("categoryId") int categoryId){
+        return productService.findByProductNameOrCategoryId(productName, categoryId);
     }
 
 }
